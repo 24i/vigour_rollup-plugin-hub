@@ -1,0 +1,29 @@
+{
+  "name": "rollup-plugin-hub",
+  "version": "0.0.1",
+  "description": "Uses hub.js to add superpowers to your dev setup",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigour-io/rollup-plugin-hub.git"
+  },
+  "keywords": [
+    "hub.js",
+    "dev",
+    "lr",
+    "livereload",
+    "develop"
+  ],
+  "author": "Youri Daamen <youri@vigour.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigour-io/rollup-plugin-hub/issues"
+  },
+  "homepage": "https://github.com/vigour-io/rollup-plugin-hub#readme",
+  "dependencies": {
+    "rollup-pluginutils": "^1.5.2"
+  }
+}
